@@ -5,4 +5,4 @@ width=100%;>
 
 # Weaviate Box Recipe Demo
 
-Please download the jupyter notebook and run it in your preferred location. 
+Please download this folder and run the Jupyter Notebook in your preferred location. The instructions for this recipe are all contained in the notebook.

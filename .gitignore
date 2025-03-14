@@ -1,0 +1,43 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+
+# Python-specific ignores
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+*.egg
+MANIFEST
+.env
+venv/
+*.log
+*.ini
+
+# JetBrains IDE
+.idea/
+
+# Test and coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+*.cover
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Optional: If using a virtual environment named 'env'
+env/
+
+# Optional: If using a requirements file
+requirements.txt
+
+# Optional: If using a setup file
+setup.py
